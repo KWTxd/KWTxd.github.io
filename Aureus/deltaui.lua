@@ -1,9 +1,3 @@
-<html>
-<head>
-<meta name="color-scheme" content="light dark">
-</head>
-<body>
-<pre style="word-wrap: break-word; white-space: pre-wrap;">
 -- // Load
 local startupArgs = ({...})[1] or {}
 
@@ -4912,4 +4906,3 @@ function library:CreateSettingsTab(menu)
 end
 
 getgenv().library = library
-return library;</pre></body></html>
