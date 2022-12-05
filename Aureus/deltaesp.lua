@@ -1,8 +1,3 @@
-<html>
-<head><meta name="color-scheme" content="light dark">
-</head>
-<body>
-<pre style="word-wrap: break-word; white-space: pre-wrap;">
 --[[------------------------------------------------
 |
 |    Developed by tatar0071#0627 and tested#0021
@@ -777,6 +772,3 @@ local Connection = RunService.RenderStepped:Connect(function()
 end)
 
 return ESP, Connection, Framework
-</pre>
-</body>
-</html>
