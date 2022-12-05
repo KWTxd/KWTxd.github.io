@@ -1,9 +1,3 @@
-<html>
-<head>
-<meta name="color-scheme" content="light dark">
-</head>
-<body>
-<pre style="word-wrap: break-word; white-space: pre-wrap;">
 --Phantom Forces ONLY!!
 
 local ESP = {
@@ -575,4 +569,3 @@ game:GetService("RunService"):BindToRenderStep("ESP", Enum.RenderPriority.Camera
 	end
 end)
 return ESP
-</pre></body></html>
